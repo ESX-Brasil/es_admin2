@@ -1,9 +1,11 @@
 fx_version 'adamant'
+
 game 'gta5'
 
--- Manifest
+description 'ESX Admin2'
 
--- Requiring essentialmode
+version '1.0.2'
+
 dependency 'essentialmode'
 
 client_script 'client.lua'
